@@ -70,6 +70,14 @@ section > h2 {
     margin-bottom: 3rem;
 }
 
+h2, h5 {
+    color: var(--color-light);
+}
+
+h2 {
+    color: var(--color-primary);
+}
+
 .text-light {
     color: var(--color-light);
 }
