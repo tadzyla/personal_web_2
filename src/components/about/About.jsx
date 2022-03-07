@@ -7,7 +7,7 @@ import { GiMountains } from 'react-icons/gi'
 
 const About = () => {
   return (
-    <section id='about'>
+    <div id='about'>
       <h5>Get to know</h5>
       <h2>About me</h2>
       <container className="about_container">
@@ -33,14 +33,14 @@ const About = () => {
               <h5>Hobbies</h5>
               <small>Hiking Running Travel Photography</small>
             </article>
-            </div>
-            <p>
-              Hello my name is Tadas. I am self taught front end developer.
+          </div>
+              <p>
+                &nbsp;&nbsp;  Hello my name is Tadas. I am passionate Web Developer. Self-starter and self-taught continously expanding knoledge and skills towards technologies, mainly focusing on frontend side of the web. Thank you for visiting my personal web, here you can find projects I did in the past, social media links and link to Github profile.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk!</a>
         </div>
       </container>
-    </section>
+    </div>
   )
 }
 

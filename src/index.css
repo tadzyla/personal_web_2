@@ -119,9 +119,7 @@ img {
         width: var(--container-width-md);
     }
 
-    section {
-        margin-top: 6rem;
-    }
+    
 }
 
 /* ==========  MEDIA QUERIES (SMALL DEVICES, PHONES) ====== */
