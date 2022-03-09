@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_web_2/static/css/main.5bc60e57.css",
-    "main.js": "/personal_web_2/static/js/main.07407d18.js",
+    "main.css": "/personal_web_2/static/css/main.a3f9af25.css",
+    "main.js": "/personal_web_2/static/js/main.ac85c14c.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
     "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.2f6a62ad6de0d0f28e12.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
@@ -10,11 +10,11 @@
     "static/media/maze.png": "/personal_web_2/static/media/maze.909b1b4efc9cbfcc1bf5.png",
     "static/media/Tadas Zvinklys CV 2022.docx": "/personal_web_2/static/media/Tadas Zvinklys CV 2022.15155512a5eb0b0a30ed.docx",
     "index.html": "/personal_web_2/index.html",
-    "main.5bc60e57.css.map": "/personal_web_2/static/css/main.5bc60e57.css.map",
-    "main.07407d18.js.map": "/personal_web_2/static/js/main.07407d18.js.map"
+    "main.a3f9af25.css.map": "/personal_web_2/static/css/main.a3f9af25.css.map",
+    "main.ac85c14c.js.map": "/personal_web_2/static/js/main.ac85c14c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bc60e57.css",
-    "static/js/main.07407d18.js"
+    "static/css/main.a3f9af25.css",
+    "static/js/main.ac85c14c.js"
   ]
 }

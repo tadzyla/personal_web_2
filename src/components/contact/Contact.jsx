@@ -3,8 +3,18 @@ import './contact.css'
 import { AiOutlineMail } from "react-icons/ai"
 import { RiMessengerLine } from 'react-icons/ri'
 import { AiOutlineWhatsApp } from 'react-icons/ai'
+import { useRef } from 'react'
+import emailjs from 'emailjs-com'
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_qr29dqc', 'template_4ecnsss', form.current, 'cS2cTUM84HxMJwFJC')
+     e.target.reset();
+    }
   return (
     <section id='contact'>
       <h5>Get in touch</h5>
@@ -27,10 +37,10 @@ const Contact = () => {
               <AiOutlineWhatsApp className='contact_option-icon'/>
               <h4>WhatsApp</h4>
               <h5>+4475 . . . 27</h5>
-              <a href="http://api.whatsapp.comsend?phone=447543967427" target="_blank" rel='noreferrer'>Send a message</a>
+              <a href="https://api.whatsapp.com/send?phone=447543967427" target="_blank" rel='noreferrer'>Send a message</a>
             </artticle>
           </div>
-          <form action="">
+          <form ref={form} onSubmit={sendEmail}>
             <input type="text" name='name' placeholder='You Name' required />
             <input type="emait" name='email' placeholder='You Email' required />
             <textarea name="message" rows="10" placeholder='Your Message' required></textarea>
