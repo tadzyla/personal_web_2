@@ -39,10 +39,10 @@ const Portfolio = () => {
       <div className="portfolio_item-image">
         <img src={Myself} alt="myself" />
       </div>
-        <h3>Myself with CSS</h3>
+        <h3>Chat app</h3>
         <div className="portfolio_item-cta">
-        <a href="https://github.com/tadzyla/mySelf" target="_blank" rel="noreferrer" className='btn'>Github</a>
-        <a href="https://tadzyla.github.io/mySelf/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
+        <a href="https://www.figma.com/file/2diFS9ksl2F7TeDW7B62qa/Practice%3A-Chat-App-Homepage-Design-(Copy)?node-id=107%3A2" target="_blank" rel="noreferrer" className='btn'>Figma preview</a>
+        <a href="https://blablachat-app-homepage.webflow.io/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
         </div>
     </article>
 
