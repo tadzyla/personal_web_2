@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/personal_web_2/static/css/main.a3f9af25.css",
-    "main.js": "/personal_web_2/static/js/main.ac1ad491.js",
+    "main.js": "/personal_web_2/static/js/main.ce15e9ea.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
-    "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.2f6a62ad6de0d0f28e12.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
+    "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.5d9fd99435752b826689.png",
     "static/media/about_me.png": "/personal_web_2/static/media/about_me.b0fbcfeba6b0a04cc475.png",
     "static/media/moviefight.png": "/personal_web_2/static/media/moviefight.bd1ee028720912656c8b.png",
     "static/media/maze.png": "/personal_web_2/static/media/maze.909b1b4efc9cbfcc1bf5.png",
     "static/media/Tadas Zvinklys CV 2022.docx": "/personal_web_2/static/media/Tadas Zvinklys CV 2022.15155512a5eb0b0a30ed.docx",
     "index.html": "/personal_web_2/index.html",
     "main.a3f9af25.css.map": "/personal_web_2/static/css/main.a3f9af25.css.map",
-    "main.ac1ad491.js.map": "/personal_web_2/static/js/main.ac1ad491.js.map"
+    "main.ce15e9ea.js.map": "/personal_web_2/static/js/main.ce15e9ea.js.map"
   },
   "entrypoints": [
     "static/css/main.a3f9af25.css",
-    "static/js/main.ac1ad491.js"
+    "static/js/main.ce15e9ea.js"
   ]
 }
