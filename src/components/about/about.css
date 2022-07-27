@@ -58,7 +58,7 @@
 
 .about_card:hover {
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: rgba(255, 255, 255, 0.556);
     cursor: default;
 }
 

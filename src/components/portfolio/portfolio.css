@@ -34,7 +34,7 @@ h4 {
 }
 
 .portfolio_item:hover {
-    border-color: var(--color-primary-variant);
+    border-color: rgba(255, 255, 255, 0.556);
     background: transparent;
 }
 
