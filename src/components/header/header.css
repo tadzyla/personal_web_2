@@ -29,20 +29,43 @@ header {
 
 .header_socials::after {
     content: "";
-    width: 1px;
+    width: 2px;
     height: 2rem;
     background: var(--color-primary);
 }
 
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
+    border-left: 0.2rem solid var(--color-primary);
+    border-bottom: 0.2rem solid var(--color-primary);
+    border-bottom-left-radius: 5rem;
+    background: transparent;
     width: 20rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
     overflow: hidden;
 }
+
+.letterT{
+    width: 18rem;
+    position: absolute;
+    left: calc(45% - 11rem);
+    margin-top: 9rem;
+    z-index: -1;
+    overflow: hidden;
+    filter: brightness(0.6) drop-shadow(2rem 1rem 1rem #4444dd) blur(0.5rem);
+}
+
+.letterZ{
+    width: 16rem;
+    position: absolute;
+    left: calc(65% - 11rem);
+    margin-top: 10rem;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(2rem 1rem 1rem #4444dd) opacity(0.9) blur(0.3rem);
+}
+
 
 .scroll_down {
     position: absolute;
