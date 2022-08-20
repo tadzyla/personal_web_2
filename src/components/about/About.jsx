@@ -36,7 +36,7 @@ const About = () => {
           </div>
               <p>
                 &nbsp;&nbsp;  Hello my name is Tadas. I am Web Developer with a passion for creativity and working with the latest technologies available. I am adept in all stages of web design and development.  
-                Thank you for visiting my personal web, here you can find projects I did in the past, social media links and link to Github profile.
+                Thank you for visiting my personal web, here you will find projects I worked on and links to social media.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk!</a>
         </div>

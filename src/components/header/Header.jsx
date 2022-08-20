@@ -5,6 +5,7 @@ import ME from '../../assets/me.png'
 import T from '../../assets/letterT.png'
 import Z from '../../assets/letterZ.png'
 import HeaderSocials from './HeaderSocials'
+import { BsArrowDown } from 'react-icons/bs'
 
 const Header = () => {
   return (
@@ -25,7 +26,9 @@ const Header = () => {
           <div className='letterZ'>
               <img src={Z} alt="letterZ" />
           </div>
-          <a href="#contact" className="scroll_down">Scroll Down</a>
+
+            <a href="#contact" className="scroll_down">Scroll Down <span className='arrow'><BsArrowDown/></span></a>
+
         </div>
       </header>
     )

@@ -35,8 +35,7 @@ header {
 }
 
 .me {
-    border-left: 0.2rem solid var(--color-primary);
-    border-bottom: 0.2rem solid var(--color-primary);
+    border-bottom: 0.1rem solid var(--color-primary);
     border-bottom-left-radius: 5rem;
     background: transparent;
     width: 20rem;
@@ -70,11 +69,18 @@ header {
 .scroll_down {
     position: absolute;
     right: 2.3rem;
-    bottom: 5rem;
+    bottom: 6rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
 }
+
+.arrow {
+    position: absolute;
+    margin-left: 1.5rem;
+    transform: rotate(-90deg);
+}
+
 
 /* ==========  MEDIA QUERIES (MEDIUM DEVICES, TABLETS) ====== */
 
