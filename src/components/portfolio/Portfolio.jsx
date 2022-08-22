@@ -6,6 +6,7 @@ import Myself from '../../assets/myselfcss.png'
 import Mars from '../../assets/mars.png'
 
 const Portfolio = () => {
+  
   return (
 
 <div id='portfolio'>

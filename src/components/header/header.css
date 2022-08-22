@@ -28,14 +28,27 @@ header {
 }
 
 .header_socials::after {
+    margin-top: 1rem;
     content: "";
-    width: 2px;
-    height: 2rem;
+    width: 1px;
+    height: 3rem;
     background: var(--color-primary);
 }
 
 .header_socials a:hover {
     transform: scale(1.5) rotate(8deg);
+}
+
+.socials {
+    color: var(--color-primary);
+    transform: rotate(90deg);
+    margin-bottom: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.socials:hover {
+    transform: scale(1.1) rotate(90deg);
+    cursor: pointer;
 }
 
 .me {
