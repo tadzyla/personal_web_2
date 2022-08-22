@@ -34,6 +34,10 @@ header {
     background: var(--color-primary);
 }
 
+.header_socials a:hover {
+    transform: scale(1.5) rotate(8deg);
+}
+
 .me {
     border-bottom: 0.1rem solid var(--color-primary);
     border-bottom-left-radius: 5rem;
@@ -46,6 +50,7 @@ header {
 }
 
 .letterT{
+    opacity: 0.4;
     width: 18rem;
     position: absolute;
     left: calc(45% - 11rem);
@@ -56,6 +61,7 @@ header {
 }
 
 .letterZ{
+    opacity: 0.4;
     width: 16rem;
     position: absolute;
     left: calc(65% - 11rem);
@@ -79,6 +85,10 @@ header {
     position: absolute;
     margin-left: 1.5rem;
     transform: rotate(-90deg);
+}
+
+.scroll_down:hover {
+    transform: scale(1.1) rotate(90deg);
 }
 
 

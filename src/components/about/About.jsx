@@ -17,7 +17,7 @@ const About = () => {
           </div>
         </div>
         <div className="about_content">
-          <div className="about_cards">
+          <div className="about_cards"> 
             <article className="about_card">
             < FaAward className='about_icon'/>
               <h5>Experience</h5>
