@@ -27,11 +27,33 @@ h4 {
 }
 
 .portfolio_item{
+    position: relative;
     background: var(--color-bg-variant);
     padding: 1.2rem;
     border: 1px solid transparent;
     border-radius: 2rem;
     transition: var(--transition);
+}
+
+.portfolio_item img {
+    transition: transform 0.5s;
+}
+
+.portfolio_item::before {
+    content: '';
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    width: 40rem;
+    height: 22rem;
+    opacity: 0.5;
+    border-radius: 1rem;
+    z-index: -1;
+    border: 1px solid white;
+}
+
+.portfolio_item img:hover {
+    transform: rotate(1deg);
 }
 
 .portfolio_item:hover {
