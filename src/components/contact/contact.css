@@ -52,6 +52,24 @@ input, textarea {
     color: white;
 }
 
+textarea:valid {
+    border-color: lawngreen;
+    background-color: transparent;
+}
+
+input:valid {
+    background-color: transparent;
+    border-color: lawngreen;
+}
+
+input::placeholder{
+    color: var(--color-light);
+}
+
+textarea::placeholder {
+    color: var(--color-light);
+}
+
 
 /* ==========  MEDIA QUERIES (MEDIUM DEVICES, TABLETS) ====== */
 

@@ -42,7 +42,7 @@ const Contact = () => {
           </div>
           <form ref={form} onSubmit={sendEmail}>
             <input type="text" name='name' placeholder='You Name' required />
-            <input type="emait" name='email' placeholder='You Email' required />
+            <input type="email" name='email' placeholder='You Email' required />
             <textarea name="message" rows="10" placeholder='Your Message' required></textarea>
             <button type='submit' className='btn btn-primary'>Send a message</button>
           </form>
