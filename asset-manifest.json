@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/personal_web_2/static/css/main.9fde8165.css",
-    "main.js": "/personal_web_2/static/js/main.a3a2eea2.js",
+    "main.js": "/personal_web_2/static/js/main.ca6ef1c5.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
+    "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.9f1962db29d085b941da.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
-    "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.5d9fd99435752b826689.png",
+    "static/media/remoteapp.png": "/personal_web_2/static/media/remoteapp.e09f5e590e954cef4939.png",
     "static/media/about_me.png": "/personal_web_2/static/media/about_me.b0fbcfeba6b0a04cc475.png",
     "static/media/moviefight.png": "/personal_web_2/static/media/moviefight.bd1ee028720912656c8b.png",
     "static/media/maze.png": "/personal_web_2/static/media/maze.909b1b4efc9cbfcc1bf5.png",
@@ -13,10 +14,10 @@
     "static/media/letterT.png": "/personal_web_2/static/media/letterT.3d58985b69fa437007a1.png",
     "index.html": "/personal_web_2/index.html",
     "main.9fde8165.css.map": "/personal_web_2/static/css/main.9fde8165.css.map",
-    "main.a3a2eea2.js.map": "/personal_web_2/static/js/main.a3a2eea2.js.map"
+    "main.ca6ef1c5.js.map": "/personal_web_2/static/js/main.ca6ef1c5.js.map"
   },
   "entrypoints": [
     "static/css/main.9fde8165.css",
-    "static/js/main.a3a2eea2.js"
+    "static/js/main.ca6ef1c5.js"
   ]
 }
