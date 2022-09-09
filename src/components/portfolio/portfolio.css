@@ -30,8 +30,7 @@ h4 {
     position: relative;
     background: var(--color-bg-variant);
     padding: 1.2rem;
-    border: 1px solid transparent;
-    border-radius: 2rem;
+    border-radius: 1rem;
     transition: var(--transition);
 }
 
@@ -39,32 +38,10 @@ h4 {
     transition: transform 0.5s;
 }
 
-.portfolio_item::before {
-    content: '';
-    position: absolute;
-    top: 1rem;
-    left: 1rem;
-    width: 40rem;
-    height: 22rem;
-    opacity: 0.5;
-    border-radius: 1rem;
-    z-index: -1;
-    border: 1px solid white;
-}
-
 .portfolio_item img:hover {
-    transform: rotate(1deg);
+    transform: scale(1.02);
 }
 
-.portfolio_item:hover {
-    border-color: rgba(255, 255, 255, 0.556);
-    background: transparent;
-}
-
-.portfolio_item-image {
-    border-radius: 2rem;
-    overflow: hidden;
-}
 
 .portfolio_item h3 {
     margin: 1rem 0 1rem;
@@ -91,7 +68,7 @@ h4 {
 
 /* ==========  MEDIA QUERIES (SMALL DEVICES, PHONES) ====== */
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
 
     
 

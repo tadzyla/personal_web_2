@@ -61,7 +61,8 @@ const Portfolio = () => {
         <a href="https://github.com/tadzyla/mars_rovers" target="_blank" rel="noreferrer" className='btn'>Github</a>
         <a href="https://roversfrommars.herokuapp.com/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
         </div>
-    </article> <article className='portfolio_item'>
+    </article> 
+    <article className='portfolio_item'>
       <div className="portfolio_item-image">
         <img src={Remoteapp} alt="remoteapp" />
       </div>
