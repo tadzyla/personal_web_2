@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_web_2/static/css/main.9fde8165.css",
-    "main.js": "/personal_web_2/static/js/main.ca6ef1c5.js",
+    "main.css": "/personal_web_2/static/css/main.f16d0d8e.css",
+    "main.js": "/personal_web_2/static/js/main.f256edfe.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
     "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.9f1962db29d085b941da.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
@@ -13,11 +13,11 @@
     "static/media/TadasZvinklysCV2022.pdf": "/personal_web_2/static/media/TadasZvinklysCV2022.42476b0252ef3e0b283e.pdf",
     "static/media/letterT.png": "/personal_web_2/static/media/letterT.3d58985b69fa437007a1.png",
     "index.html": "/personal_web_2/index.html",
-    "main.9fde8165.css.map": "/personal_web_2/static/css/main.9fde8165.css.map",
-    "main.ca6ef1c5.js.map": "/personal_web_2/static/js/main.ca6ef1c5.js.map"
+    "main.f16d0d8e.css.map": "/personal_web_2/static/css/main.f16d0d8e.css.map",
+    "main.f256edfe.js.map": "/personal_web_2/static/js/main.f256edfe.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fde8165.css",
-    "static/js/main.ca6ef1c5.js"
+    "static/css/main.f16d0d8e.css",
+    "static/js/main.f256edfe.js"
   ]
 }

@@ -209,6 +209,10 @@ img {
         width: var(--container-width-md);
     }
 
+    section {
+        height: 150vh;
+    }
+
     
 }
 
