@@ -59,7 +59,7 @@ const Portfolio = () => {
         <h4>Web application built with React. It is fetching photos from NASA API, taken by Mars rovers. Gives user an opportunity to see latest photos from Mars.</h4>
         <div className="portfolio_item-cta">
         <a href="https://github.com/tadzyla/mars_rovers" target="_blank" rel="noreferrer" className='btn'>Github</a>
-        <a href="https://roversfrommars.herokuapp.com/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
+        <a href="https://mars-rovers-beta.vercel.app/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
         </div>
     </article> 
     <article className='portfolio_item'>
