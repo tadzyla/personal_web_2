@@ -82,7 +82,13 @@ const Portfolio = () => {
         <h4>Real eCommerce application built with Next.js framework, Sanity headless CMS and with complete payments integration using Stripe</h4>
         <div className="portfolio_item-cta">
         <a href="https://github.com/tadzyla/ecommerce-shop" target="_blank" rel="noreferrer" className='btn'>Github</a>
-        <button className='desc'>Live coming soon ...</button>
+        <button className='desc'>Live coming soon 
+          <span className='dot1'>.</span>
+          <span className='dot2'>.</span>
+          <span className='dot3'>.</span>
+          <span className='dot4'>.</span>
+          <span className='dot5'>.</span>
+        </button>
         </div>
     </article>
   </div>
