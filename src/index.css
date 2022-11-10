@@ -169,6 +169,13 @@ a {
     transition: var(--transition);
 }
 
+.desc {
+    background-color: var(--color-bg-variant);
+    color: #98407b;
+    font-size: medium;
+    margin-left: 1rem;
+}
+
 a:hover {
     color: var(--color-white);
 }

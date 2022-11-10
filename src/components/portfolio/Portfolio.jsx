@@ -5,6 +5,7 @@ import Maze from '../../assets/maze.png'
 import Myself from '../../assets/myselfcss.png'
 import Mars from '../../assets/mars.png'
 import Remoteapp from '../../assets/remoteapp.png'
+import Ecommerce from '../../assets/ecommerce.png'
 
 const Portfolio = () => {
   
@@ -71,6 +72,17 @@ const Portfolio = () => {
         <div className="portfolio_item-cta">
         <a href="https://www.figma.com/file/n0Bni42aInuzFgcPsyu5oI/Wireframe-Kit-(Copy)?node-id=2899%3A226" target="_blank" rel="noreferrer" className='btn'>Figma preview</a>
         <a href="https://remoteam-app.webflow.io/" target="_blank" rel="noreferrer" className='btn btn-primary'>Live Demo</a>
+        </div>
+    </article>
+    <article className='portfolio_item'>
+      <div className="portfolio_item-image">
+        <img src={Ecommerce} alt="ecommerce" />
+      </div>
+        <h3>Ecommerce shop</h3>
+        <h4>Real eCommerce application built with Next.js framework, Sanity headless CMS and with complete payments integration using Stripe</h4>
+        <div className="portfolio_item-cta">
+        <a href="https://github.com/tadzyla/ecommerce-shop" target="_blank" rel="noreferrer" className='btn'>Github</a>
+        <button className='desc'>Live coming soon ...</button>
         </div>
     </article>
   </div>
