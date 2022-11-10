@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/personal_web_2/static/css/main.c6b74e23.css",
-    "main.js": "/personal_web_2/static/js/main.43bfc98a.js",
+    "main.css": "/personal_web_2/static/css/main.600d61be.css",
+    "main.js": "/personal_web_2/static/js/main.3a23b1e3.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
     "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.9f1962db29d085b941da.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
     "static/media/remoteapp.png": "/personal_web_2/static/media/remoteapp.e09f5e590e954cef4939.png",
+    "static/media/ecommerce.png": "/personal_web_2/static/media/ecommerce.57bc6f48a8b5ac74face.png",
     "static/media/about_me.png": "/personal_web_2/static/media/about_me.b0fbcfeba6b0a04cc475.png",
     "static/media/moviefight.png": "/personal_web_2/static/media/moviefight.bd1ee028720912656c8b.png",
     "static/media/maze.png": "/personal_web_2/static/media/maze.909b1b4efc9cbfcc1bf5.png",
@@ -13,11 +14,11 @@
     "static/media/TadasZvinklysCV2022.pdf": "/personal_web_2/static/media/TadasZvinklysCV2022.42476b0252ef3e0b283e.pdf",
     "static/media/letterT.png": "/personal_web_2/static/media/letterT.3d58985b69fa437007a1.png",
     "index.html": "/personal_web_2/index.html",
-    "main.c6b74e23.css.map": "/personal_web_2/static/css/main.c6b74e23.css.map",
-    "main.43bfc98a.js.map": "/personal_web_2/static/js/main.43bfc98a.js.map"
+    "main.600d61be.css.map": "/personal_web_2/static/css/main.600d61be.css.map",
+    "main.3a23b1e3.js.map": "/personal_web_2/static/js/main.3a23b1e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6b74e23.css",
-    "static/js/main.43bfc98a.js"
+    "static/css/main.600d61be.css",
+    "static/js/main.3a23b1e3.js"
   ]
 }
