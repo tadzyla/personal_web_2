@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal_web_2/static/css/main.03ef6983.css",
-    "main.js": "/personal_web_2/static/js/main.86d5661b.js",
+    "main.css": "/personal_web_2/static/css/main.120a3472.css",
+    "main.js": "/personal_web_2/static/js/main.7e561a01.js",
     "static/media/me.png": "/personal_web_2/static/media/me.0f6dc783e01a231c3d34.png",
     "static/media/myselfcss.png": "/personal_web_2/static/media/myselfcss.9f1962db29d085b941da.png",
     "static/media/mars.png": "/personal_web_2/static/media/mars.60bc771ae6eedeb6c17b.png",
@@ -11,14 +11,13 @@
     "static/media/moviefight.png": "/personal_web_2/static/media/moviefight.bd1ee028720912656c8b.png",
     "static/media/maze.png": "/personal_web_2/static/media/maze.909b1b4efc9cbfcc1bf5.png",
     "static/media/letterZ.png": "/personal_web_2/static/media/letterZ.78f9916d97b16d5b3ec9.png",
-    "static/media/TadasZvinklysCV2022.pdf": "/personal_web_2/static/media/TadasZvinklysCV2022.42476b0252ef3e0b283e.pdf",
     "static/media/letterT.png": "/personal_web_2/static/media/letterT.3d58985b69fa437007a1.png",
     "index.html": "/personal_web_2/index.html",
-    "main.03ef6983.css.map": "/personal_web_2/static/css/main.03ef6983.css.map",
-    "main.86d5661b.js.map": "/personal_web_2/static/js/main.86d5661b.js.map"
+    "main.120a3472.css.map": "/personal_web_2/static/css/main.120a3472.css.map",
+    "main.7e561a01.js.map": "/personal_web_2/static/js/main.7e561a01.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ef6983.css",
-    "static/js/main.86d5661b.js"
+    "static/css/main.120a3472.css",
+    "static/js/main.7e561a01.js"
   ]
 }
